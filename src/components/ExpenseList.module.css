@@ -1,0 +1,17 @@
+.list {
+  list-style: none;
+  margin: 0;
+  padding: 0;
+  border: 1px solid #e5e7eb;
+  border-radius: 0.5rem;
+  overflow: hidden;
+  background-color: #ffffff;
+}
+
+.empty {
+  text-align: center;
+  color: #6b7280;
+  padding: 2rem 1rem;
+  margin: 0;
+  font-size: 0.95rem;
+}

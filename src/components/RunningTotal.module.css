@@ -1,0 +1,13 @@
+.container {
+  padding: 1rem 1.5rem;
+  background-color: #f0f4ff;
+  border-radius: 8px;
+  margin-bottom: 1.5rem;
+}
+
+.total {
+  margin: 0;
+  font-size: 1.5rem;
+  font-weight: 600;
+  color: #1a1a2e;
+}

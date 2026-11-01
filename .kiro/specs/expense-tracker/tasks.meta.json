@@ -1,0 +1,193 @@
+{
+  "pbtResults": {},
+  "executionHistory": {
+    "1.1 Initialise the Vite project with the React-TypeScript template inside the workspace root; install dependencies including `vitest`, `@testing-library/react`, `@testing-library/user-event`, `@testing-library/jest-dom`, and `fast-check`": [
+      {
+        "executionId": "3faa6099-c48a-4721-b5b6-57b91276c915",
+        "chatSessionId": "sess_6d4cec6f-60e2-48bc-b554-a804e4e655fe",
+        "timestamp": 1793435945941
+      },
+      {
+        "executionId": "3faa6099-c48a-4721-b5b6-57b91276c915",
+        "chatSessionId": "sess_6d4cec6f-60e2-48bc-b554-a804e4e655fe",
+        "timestamp": 1793435953965
+      },
+      {
+        "executionId": "3faa6099-c48a-4721-b5b6-57b91276c915",
+        "chatSessionId": "sess_6d4cec6f-60e2-48bc-b554-a804e4e655fe",
+        "timestamp": 1793436488812
+      }
+    ],
+    "1.2 Create `src/types.ts` with the `Expense` and `FormErrors` interfaces": [
+      {
+        "executionId": "3faa6099-c48a-4721-b5b6-57b91276c915",
+        "chatSessionId": "sess_6d4cec6f-60e2-48bc-b554-a804e4e655fe",
+        "timestamp": 1793435946229
+      },
+      {
+        "executionId": "3faa6099-c48a-4721-b5b6-57b91276c915",
+        "chatSessionId": "sess_6d4cec6f-60e2-48bc-b554-a804e4e655fe",
+        "timestamp": 1793435957032
+      },
+      {
+        "executionId": "3faa6099-c48a-4721-b5b6-57b91276c915",
+        "chatSessionId": "sess_6d4cec6f-60e2-48bc-b554-a804e4e655fe",
+        "timestamp": 1793436492912
+      }
+    ],
+    "2.1 Create `src/components/RunningTotal.tsx` and `RunningTotal.module.css`": [
+      {
+        "executionId": "3faa6099-c48a-4721-b5b6-57b91276c915",
+        "chatSessionId": "sess_6d4cec6f-60e2-48bc-b554-a804e4e655fe",
+        "timestamp": 1793435946397
+      },
+      {
+        "executionId": "3faa6099-c48a-4721-b5b6-57b91276c915",
+        "chatSessionId": "sess_6d4cec6f-60e2-48bc-b554-a804e4e655fe",
+        "timestamp": 1793436497206
+      },
+      {
+        "executionId": "3faa6099-c48a-4721-b5b6-57b91276c915",
+        "chatSessionId": "sess_6d4cec6f-60e2-48bc-b554-a804e4e655fe",
+        "timestamp": 1793436587708
+      }
+    ],
+    "3.1 Create `src/components/AddExpenseForm.tsx` and `AddExpenseForm.module.css`": [
+      {
+        "executionId": "3faa6099-c48a-4721-b5b6-57b91276c915",
+        "chatSessionId": "sess_6d4cec6f-60e2-48bc-b554-a804e4e655fe",
+        "timestamp": 1793435946529
+      },
+      {
+        "executionId": "3faa6099-c48a-4721-b5b6-57b91276c915",
+        "chatSessionId": "sess_6d4cec6f-60e2-48bc-b554-a804e4e655fe",
+        "timestamp": 1793436500882
+      },
+      {
+        "executionId": "3faa6099-c48a-4721-b5b6-57b91276c915",
+        "chatSessionId": "sess_6d4cec6f-60e2-48bc-b554-a804e4e655fe",
+        "timestamp": 1793436893255
+      }
+    ],
+    "4.1 Create `src/components/ExpenseItem.tsx` and `ExpenseItem.module.css`": [
+      {
+        "executionId": "3faa6099-c48a-4721-b5b6-57b91276c915",
+        "chatSessionId": "sess_6d4cec6f-60e2-48bc-b554-a804e4e655fe",
+        "timestamp": 1793435946620
+      },
+      {
+        "executionId": "3faa6099-c48a-4721-b5b6-57b91276c915",
+        "chatSessionId": "sess_6d4cec6f-60e2-48bc-b554-a804e4e655fe",
+        "timestamp": 1793436503889
+      },
+      {
+        "executionId": "3faa6099-c48a-4721-b5b6-57b91276c915",
+        "chatSessionId": "sess_6d4cec6f-60e2-48bc-b554-a804e4e655fe",
+        "timestamp": 1793436896598
+      }
+    ],
+    "4.2 Create `src/components/ExpenseList.tsx` and `ExpenseList.module.css`": [
+      {
+        "executionId": "3faa6099-c48a-4721-b5b6-57b91276c915",
+        "chatSessionId": "sess_6d4cec6f-60e2-48bc-b554-a804e4e655fe",
+        "timestamp": 1793435946774
+      },
+      {
+        "executionId": "3faa6099-c48a-4721-b5b6-57b91276c915",
+        "chatSessionId": "sess_6d4cec6f-60e2-48bc-b554-a804e4e655fe",
+        "timestamp": 1793436903434
+      },
+      {
+        "executionId": "3faa6099-c48a-4721-b5b6-57b91276c915",
+        "chatSessionId": "sess_6d4cec6f-60e2-48bc-b554-a804e4e655fe",
+        "timestamp": 1793436965184
+      }
+    ],
+    "5. Checkpoint — run all tests before wiring": [
+      {
+        "executionId": "3faa6099-c48a-4721-b5b6-57b91276c915",
+        "chatSessionId": "sess_6d4cec6f-60e2-48bc-b554-a804e4e655fe",
+        "timestamp": 1793435946865
+      },
+      {
+        "executionId": "3faa6099-c48a-4721-b5b6-57b91276c915",
+        "chatSessionId": "sess_6d4cec6f-60e2-48bc-b554-a804e4e655fe",
+        "timestamp": 1793436983665
+      },
+      {
+        "executionId": "3faa6099-c48a-4721-b5b6-57b91276c915",
+        "chatSessionId": "sess_6d4cec6f-60e2-48bc-b554-a804e4e655fe",
+        "timestamp": 1793437032397
+      }
+    ],
+    "6.1 Implement `src/App.tsx` with `useState<Expense[]>([])`, `addExpense`, and `deleteExpense` handlers": [
+      {
+        "executionId": "3faa6099-c48a-4721-b5b6-57b91276c915",
+        "chatSessionId": "sess_6d4cec6f-60e2-48bc-b554-a804e4e655fe",
+        "timestamp": 1793435946952
+      },
+      {
+        "executionId": "3faa6099-c48a-4721-b5b6-57b91276c915",
+        "chatSessionId": "sess_6d4cec6f-60e2-48bc-b554-a804e4e655fe",
+        "timestamp": 1793437042087
+      },
+      {
+        "executionId": "3faa6099-c48a-4721-b5b6-57b91276c915",
+        "chatSessionId": "sess_6d4cec6f-60e2-48bc-b554-a804e4e655fe",
+        "timestamp": 1793437159614
+      }
+    ],
+    "7. Final checkpoint — ensure all tests pass": [
+      {
+        "executionId": "3faa6099-c48a-4721-b5b6-57b91276c915",
+        "chatSessionId": "sess_6d4cec6f-60e2-48bc-b554-a804e4e655fe",
+        "timestamp": 1793435947039
+      },
+      {
+        "executionId": "3faa6099-c48a-4721-b5b6-57b91276c915",
+        "chatSessionId": "sess_6d4cec6f-60e2-48bc-b554-a804e4e655fe",
+        "timestamp": 1793437170333
+      },
+      {
+        "executionId": "3faa6099-c48a-4721-b5b6-57b91276c915",
+        "chatSessionId": "sess_6d4cec6f-60e2-48bc-b554-a804e4e655fe",
+        "timestamp": 1793437570250
+      }
+    ],
+    "1. Scaffold the Vite + React + TypeScript project and define shared types": [
+      {
+        "executionId": "3faa6099-c48a-4721-b5b6-57b91276c915",
+        "chatSessionId": "sess_6d4cec6f-60e2-48bc-b554-a804e4e655fe",
+        "timestamp": 1793436493028
+      }
+    ],
+    "2. Implement `RunningTotal` component": [
+      {
+        "executionId": "3faa6099-c48a-4721-b5b6-57b91276c915",
+        "chatSessionId": "sess_6d4cec6f-60e2-48bc-b554-a804e4e655fe",
+        "timestamp": 1793436587933
+      }
+    ],
+    "3. Implement `AddExpenseForm` component": [
+      {
+        "executionId": "3faa6099-c48a-4721-b5b6-57b91276c915",
+        "chatSessionId": "sess_6d4cec6f-60e2-48bc-b554-a804e4e655fe",
+        "timestamp": 1793436893500
+      }
+    ],
+    "4. Implement `ExpenseItem` and `ExpenseList` components": [
+      {
+        "executionId": "3faa6099-c48a-4721-b5b6-57b91276c915",
+        "chatSessionId": "sess_6d4cec6f-60e2-48bc-b554-a804e4e655fe",
+        "timestamp": 1793436965363
+      }
+    ],
+    "6. Wire all components together in `App`": [
+      {
+        "executionId": "3faa6099-c48a-4721-b5b6-57b91276c915",
+        "chatSessionId": "sess_6d4cec6f-60e2-48bc-b554-a804e4e655fe",
+        "timestamp": 1793437159832
+      }
+    ]
+  }
+}
